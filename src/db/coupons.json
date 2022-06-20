@@ -1,0 +1,23 @@
+[
+  {
+    "id": "4213cc98-d3f2-4988-83cd-5948df4f86ad",
+    "code": "ABC123",
+    "amount": "10",
+    "startDate": "2022-06-20T03:40:15.897Z",
+    "endDate": "2022-06-20T03:40:15.897Z"
+  },
+  {
+    "id": "ae8cbe47-4bdc-461b-a7b6-352c58f73b90",
+    "code": "ONE_OFF_DISCOUNT",
+    "amount": "25",
+    "startDate": "2022-06-20T03:40:15.897Z",
+    "endDate": "2022-06-20T03:40:15.897Z"
+  },
+  {
+    "id": "d1bd965b-037a-41d2-aff4-adb177d2ce56",
+    "code": "THIRTY_OFF",
+    "amount": "30",
+    "startDate": "2022-06-20T03:40:15.897Z",
+    "endDate": "2022-06-20T03:40:15.897Z"
+  }
+]
